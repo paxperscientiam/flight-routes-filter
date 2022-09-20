@@ -1,0 +1,13 @@
+{
+    "name": "paxperscientiam/flight-routes-filter",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Paxperscientiam\\FlightRoutesFilter\\": "src/"
+        }
+    },
+    "require-dev": {
+        "mikecao/flight": "^2.0",
+        "kint-php/kint": "^4.2"
+    }
+}
